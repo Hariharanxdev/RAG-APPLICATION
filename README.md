@@ -178,5 +178,9 @@ The application provides the following actions:
 8. Add document deletion and document management features.
 9. Improve source citation with better page-level navigation.
 10. Improve retrieval accuracy using advanced retrieval techniques.
-11. Add multilingual document and question support.
-12. Deploy the RAG Assistant to a cloud platform.
+
+---
+
+## Author
+
+**Hari Haran**
