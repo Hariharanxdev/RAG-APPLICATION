@@ -1,0 +1,13 @@
+AI Notes
+
+Artificial Intelligence enables machines to perform tasks that normally require human intelligence.
+
+Machine Learning is a subset of Artificial Intelligence.
+
+Machine Learning allows computers to learn patterns from data and make predictions.
+
+Natural Language Processing allows computers to process and understand human language.
+
+Deep Learning is a branch of Machine Learning that uses neural networks with multiple layers.
+
+Computer Vision enables computers to analyze and understand images and videos.
